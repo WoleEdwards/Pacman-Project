@@ -6,6 +6,6 @@ set(CMAKE_CXX_STANDARD 14)
 include_directories(.)
 
 add_executable(apsc143project
-        apsc143project.cpp
+        PacMan.cpp
         colours.cpp
         colours.h)
