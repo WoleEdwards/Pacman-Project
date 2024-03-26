@@ -1,0 +1,3 @@
+C:/Users/kinwo/Documents/GitHub/pacman/cmake-build-debug/CMakeFiles/PacMan.cpp.dir
+C:/Users/kinwo/Documents/GitHub/pacman/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kinwo/Documents/GitHub/pacman/cmake-build-debug/CMakeFiles/rebuild_cache.dir

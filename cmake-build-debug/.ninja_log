@@ -1,0 +1,6 @@
+# ninja log v5
+1	2540	7313655422201523	CMakeFiles/apsc143project.dir/colours.cpp.obj	73f9ef9eea15e694
+11	2556	7313655422370623	CMakeFiles/apsc143project.dir/PacMan.cpp.obj	826643b489deb547
+1	253	7313665858439473	build.ninja	f1b5d63b54e9dbba
+2556	2791	7313655424678580	apsc143project.exe	ad4b27f2b0c59941
+1	1417	7313657040203595	CMakeFiles/PacMan.cpp.dir/colours.cpp.obj	98bab7b1063412d9
